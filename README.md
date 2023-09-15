@@ -1,2 +1,2 @@
 # Drawing-Application
-Purpose is a drawing application created in python
+Drawing application that rivals Microsoft Paint. Created in python. 
